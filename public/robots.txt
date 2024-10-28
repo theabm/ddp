@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dedes-dung-pile.com/sitemap.xml
